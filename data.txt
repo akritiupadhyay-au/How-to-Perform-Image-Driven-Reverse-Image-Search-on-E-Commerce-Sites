@@ -1,0 +1,19 @@
+Click on the below link:
+"https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images"
+
+In this dataset, there are two types of products: 
+1. Apparel
+a. Boys
+b. Girls
+2. Footwear
+a. Men
+b. Women
+
+
+Download the dataset and rename the folder move into data folder:
+1. Apparel_Boys
+2. Apparel_Girls
+3. Footwear_Men
+4. Footwear_Women
+
+Now, you can proceed with this dataset for your image driven product search for ecommerce.
