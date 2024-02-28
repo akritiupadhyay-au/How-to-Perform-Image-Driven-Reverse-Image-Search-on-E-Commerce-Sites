@@ -1,0 +1,7 @@
+Clone the git repository of Imagebind:
+git clone https://github.com/facebookresearch/ImageBind.git
+Change the directory: cd Imagebind
+Edit the requirements.txt file: Delete mayavi and cartopy if getting errors or facing problems.
+Come back to your system: cd ..
+
+
