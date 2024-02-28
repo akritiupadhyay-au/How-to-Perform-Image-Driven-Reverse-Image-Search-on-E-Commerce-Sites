@@ -1,9 +1,7 @@
-Clone the git repository of Imagebind:
-git clone https://github.com/facebookresearch/ImageBind.git
-Change the directory: cd Imagebind
-Edit the requirements.txt file: Delete mayavi and cartopy if getting errors or facing problems.
-Install the requirements:
-pip install -r requirements.txt
-Come back to your system: cd ..
+1. Clone the git repository of Imagebind: git clone https://github.com/facebookresearch/ImageBind.git
+2. Change the directory: cd Imagebind
+3. Edit the requirements.txt file: Delete mayavi and cartopy if getting errors or facing problems.
+4. Install the requirements:pip install -r requirements.txt
+5. Come back to your system: cd ..
 
 
