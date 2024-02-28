@@ -1,0 +1,4 @@
+opendatasets
+qdrant-client 
+tqdm
+gradio
